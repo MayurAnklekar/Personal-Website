@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mayur Anklekar</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital@1&family=Sacramento&display=swap" rel="stylesheet">
+
+  </head>
+
+  <div class="TopContainer">
+    <img class="top-cloud"src="images/cloud.png" alt="cloud-img">
+    <h1>I'm Mayur.</h1>
+    <p>a <span class="pro">pro</span>grammer.</p>
+    <img class="bottom-cloud"src="images/cloud.png" alt="cloud-img">
+    <img src="images/mountain.png" alt="mountain-img">
+  </div>
+  <div class="MiddleContainer">
+
+  </div>
+
+  <div class="BottomContainer">
+
+  </div>
+  <body>
+
+  </body>
+</html>
+<!--#e0ebe8-#d8e3e7-->
